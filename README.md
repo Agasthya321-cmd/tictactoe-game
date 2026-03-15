@@ -47,3 +47,9 @@ Agasthya T
 * Better AI strategy
 * Sound effects
 * Mobile game improvements
+
+Tic Tac Toe Game
+JavaScript Game
+HTML CSS JavaScript Project
+AI Tic Tac Toe
+Frontend Game Project
