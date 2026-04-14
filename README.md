@@ -7,7 +7,7 @@ This project allows a user to play against the computer with a clean user interf
 ## 🚀 Live Demo
 
 Play the game here:
-https://yourusername.github.io/tictactoe-game
+https://Agasthya-Hanu.github.io/tictactoe-game
 
 ## ✨ Features
 
@@ -39,7 +39,7 @@ script.js
 
 ## 👨‍💻 Author
 
-Agasthya T
+Agasthya Thota
 
 ## 📌 Future Improvements
 
